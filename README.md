@@ -1,4 +1,4 @@
-# react-event-emitter
+# @magoo/react-event-emitter
 
 React hook for event subscription and publishing
 
@@ -7,7 +7,7 @@ React hook for event subscription and publishing
 ![CI Build](https://github.com/TheMagoo73/react-event-emitter/actions/workflows/ci-build.yml/badge.svg)
 [![Test Coverage](https://api.codeclimate.com/v1/badges/3d634028cffba29aba92/test_coverage)](https://codeclimate.com/github/TheMagoo73/react-event-emitter/test_coverage)
 
-## Contenets
+## Contents
 
 - [Installation](#installation)
 - [Getting Started](#getting-started)
