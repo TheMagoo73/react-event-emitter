@@ -1,5 +1,5 @@
 {
-  "name": "react-event-emitter",
+  "name": "@magoo/react-event-emitter",
   "version": "1.0.0",
   "description": "Hook based pub/sub event emitter for React Single Page Applications (SPA)",
   "keywords": [
