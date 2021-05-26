@@ -1,6 +1,6 @@
 {
   "name": "@jcmagoo/react-event-emitter",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Hook based pub/sub event emitter for React Single Page Applications (SPA)",
   "keywords": [
     "SPA",
@@ -32,7 +32,7 @@
   },
   "license": "MIT",
   "peerDependencies": {
-    "react": "16.11.0 || ^17"
+    "react": "^16.11.0 || ^17"
   },
   "files": [
     "src",
