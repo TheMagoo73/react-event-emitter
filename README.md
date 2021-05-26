@@ -2,7 +2,7 @@
 
 React hook for event subscription and publishing
 
-[![npm version](https://badge.fury.io/js/@jcmagoo/react-event-emitter.svg)](https://badge.fury.io/js/@jcmagoo/react-event-emitter)
+[![npm version](https://badge.fury.io/js/%40jcmagoo%2Freact-event-emitter.svg)](https://badge.fury.io/js/%40jcmagoo%2Freact-event-emitter)
 [![Known Vulnerabilities](https://snyk.io/test/github/TheMagoo73/flagsmith-react/badge.svg)](https://snyk.io/test/github/TheMagoo73/react-event-emitter)
 ![CI Build](https://github.com/TheMagoo73/react-event-emitter/actions/workflows/ci-build.yml/badge.svg)
 [![Test Coverage](https://api.codeclimate.com/v1/badges/3d634028cffba29aba92/test_coverage)](https://codeclimate.com/github/TheMagoo73/react-event-emitter/test_coverage)
